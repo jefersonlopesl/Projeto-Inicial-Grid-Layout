@@ -1,5 +1,5 @@
 .populares {
-  padding: 3rem 2rem;
+  padding: 3rem 0;
 }
 
 .populares__conteudo {
@@ -76,4 +76,8 @@
   background: transparent;
   border: none;
   color: #333333;
+  position: absolute;
+  right: 0;
+  padding: 0 3rem;
+
 }
